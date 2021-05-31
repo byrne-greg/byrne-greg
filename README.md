@@ -9,7 +9,7 @@ Over the years, I've flipped from working with back-end and front-end technologi
 ### Free time 🔭 
 I like to build personal projects that allow me to learn new things as well as try share that learning through blogging and writing.</p>
 
-### Where am I? 📫 
+### Where am I? 🗺️
 You can find me on various places on the interweb, but a good starting point is [gregbyrne.ie](https://www.gregbyrne.ie)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=byrne-greg&show_icons=true&theme=gotham" alt="byrne-greg" />
